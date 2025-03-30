@@ -10,6 +10,9 @@ Gesture Writing is an AI-powered real-time air drawing system that allows users 
 ✅ Smooth & Animated UI – Dark-themed, elegant frontend with animations
 ✅ Lightweight & Fast – Optimized for real-time performance
 
+![image](https://github.com/user-attachments/assets/afff3d24-b416-48c3-9a88-62adfe612676)
+
+
 🚀 Tech Stack
 🔹 Frontend: HTML, CSS (Dark theme, animations, and transitions)
 🔹 Backend: Flask (Lightweight Python server)
