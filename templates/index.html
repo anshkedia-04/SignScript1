@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gesture Writing</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header class="header">
+        <h1>Gesture Writing</h1>
+        <p>Draw in the air using hand gestures!</p>
+        <p class="description">
+            Experience the future of interaction! Gesture Writing uses AI-powered real-time hand tracking 
+            to let you draw in the air with precision and ease.
+        </p>
+    </header>
+
+    <div class="video-container">
+        <img src="{{ url_for('video_feed') }}" alt="Gesture Writing Feed">
+    </div>
+
+    <footer class="footer">
+        <p class="footer-text">
+            Built with <span class="highlight">MediaPipe</span>, <span class="highlight">OpenCV</span>, and <span class="highlight">Flask</span>, 
+            Gesture Writing transforms air gestures into digital strokes.
+        </p>
+        <p class="footer-note">Enhancing human-computer interaction for creativity and accessibility.</p>
+    </footer>
+</body>
+</html>
