@@ -1,21 +1,31 @@
-🖋️ Gesture Writing – AI-Powered Air Drawing System
-Gesture Writing is an AI-powered real-time air drawing system that allows users to write or draw in the air using hand gestures. Built with MediaPipe, OpenCV, Flask, and JavaScript, this system detects hand movements and translates them into digital strokes on a virtual canvas.
+# 🖋️ Gesture Writing – AI-Powered Air Drawing System  
 
-🚀 Experience the future of gesture-based interaction! 🎨✨
+Gesture Writing is an **AI-powered real-time air drawing system** that allows users to write or draw in the air using hand gestures.  
+Built with **MediaPipe, OpenCV, Flask, and JavaScript**, this system detects hand movements and translates them into digital strokes on a virtual canvas.  
 
-🔥 Features
-✅ Real-time Gesture Recognition – Uses MediaPipe Hand Tracking
-✅ Air Drawing – Move your finger in the air to draw on the digital canvas
-✅ Pinch to Clear – Pinch your thumb and index finger to erase everything
-✅ Smooth & Animated UI – Dark-themed, elegant frontend with animations
-✅ Lightweight & Fast – Optimized for real-time performance
+🚀 **Experience the future of gesture-based interaction!** 🎨✨  
 
-![image](https://github.com/user-attachments/assets/afff3d24-b416-48c3-9a88-62adfe612676)
+---
+
+## 🔥 Features  
+✅ **Real-time Gesture Recognition** – Uses MediaPipe Hand Tracking  
+✅ **Air Drawing** – Move your finger in the air to draw on the digital canvas  
+✅ **Pinch to Clear** – Pinch your thumb and index finger to erase everything  
+✅ **Smooth & Animated UI** – Dark-themed, elegant frontend with animations  
+✅ **Lightweight & Fast** – Optimized for real-time performance  
+
+---
+
+## 📷 Demo  
+![Gesture Writing](https://github.com/user-attachments/assets/afff3d24-b416-48c3-9a88-62adfe612676)  
+
+---
+
+## 🚀 Tech Stack  
+🔹 **Frontend**: HTML, CSS (Dark theme, animations, and transitions)  
+🔹 **Backend**: Flask (Lightweight Python server)  
+🔹 **AI & Computer Vision**: OpenCV, MediaPipe (for hand tracking)  
+
+---
 
 
-🚀 Tech Stack
-🔹 Frontend: HTML, CSS (Dark theme, animations, and transitions)
-🔹 Backend: Flask (Lightweight Python server)
-🔹 AI & Computer Vision: OpenCV, MediaPipe (for hand tracking)
-
-📌 Built with ❤️ by Ansh Kedia
