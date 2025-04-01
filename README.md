@@ -17,7 +17,8 @@ Built with **MediaPipe, OpenCV, Flask, and JavaScript**, this system detects han
 ---
 
 ## 📷 Demo  
-![Gesture Writing](https://github.com/user-attachments/assets/afff3d24-b416-48c3-9a88-62adfe612676)  
+![Screenshot 2025-03-26 000051](https://github.com/user-attachments/assets/3ac7cada-8217-477b-8aef-52f64a02958b)
+
 
 ---
 
